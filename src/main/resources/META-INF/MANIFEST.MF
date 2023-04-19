@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: C:\Users\User\IdeaProjects\geo_locator\target\classes\me\ger
+ bert\geoloc\geo_locator\Geo_locator.class
+

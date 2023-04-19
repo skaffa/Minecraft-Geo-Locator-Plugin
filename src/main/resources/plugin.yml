@@ -1,0 +1,11 @@
+name: geo_locator
+version: '${project.version}'
+main: me.gerbert.geoloc.geo_locator.Geo_locator
+api-version: 1.19
+commands:
+  geo:
+    description: Get geo-info about player or IP
+    permission: geo.use
+    permission-message: Connecting to mainframe...
+    usage: /geo <player | IP>
+    aliases: geo-ip
